@@ -1,0 +1,17 @@
+Mas clases bootstrap
+
+
+d-none  display none/funcionario para que el display no se veia
+
+TODOS LOS QUE EMPIEZAN CON N SON display
+
+d-lg-block que el tamaño sea visible a partir del tamaño grande
+
+
+-------------------------------------------
+
+extras
+
+en el css 
+
+ object-fit: contain; nos deja una imagen contenida en su respectiva caja

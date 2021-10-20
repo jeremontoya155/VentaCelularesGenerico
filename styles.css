@@ -1,0 +1,34 @@
+#logotipo {
+  height: 1.75rem;
+}
+
+/*Como hacer un parallax*/
+.parallax {
+  background-image: url("../images/textura_parallax.jpg");
+  height: 20vh;
+  background-size: cover;
+  background-attachment: fixed;
+  font-size: 35px;
+}
+
+.card-img-top {
+  height: 38vh;
+  object-fit: contain;
+}
+
+.cubrir {
+  color: black;
+}
+
+.cubrir:hover {
+  cursor: progress;
+  color: cadetblue;
+}
+
+.col {
+  margin: 1em 2em 1em;
+}
+
+.buscador {
+  margin-top: 72px;
+}
